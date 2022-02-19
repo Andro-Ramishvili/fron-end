@@ -1,0 +1,15 @@
+.test1 {
+    float: left;
+}
+
+.test2 {
+    float: right;
+}
+
+.wrapper {
+    background-color: red;
+}
+
+.clear {
+    clear: both; /* floatis dros ver xedavs simagles, clear atributis daxmarebit xedavs */
+}
